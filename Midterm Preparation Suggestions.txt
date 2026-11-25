@@ -1,0 +1,216 @@
+Engineering Ethics (02234213): Midterm Preparation Suggestions
+
+
+Eastern University, School of Engineering | Midterm
+Examination, Fall 2026
+
+
+
+The midterm rewards students who can argue a position, not
+students who can recite definitions. It carries 30 marks and runs 1.5 hours.
+Section A (Questions 1 and 2) is compulsory. In Section B you answer either
+Question 3 or Question 4. Every question has three parts: part (a) is worth 2
+marks and asks you to explain a concept, part (b) is worth 3 marks and asks you
+to analyze, and part (c) is worth 5 marks and asks you to evaluate. Half of
+your marks therefore sit in the (c) parts, so spend your revision time on
+building arguments, not on memorizing lists.
+
+
+How to write each type of part
+
+
+
+For part (a), give a tight, accurate answer in four to six
+sentences. Define the term, name the thinker if there is one, and add one
+sentence that shows why it matters in engineering. Two marks do not need a
+page.
+
+
+
+For part (b), take the concept apart and then say how its
+pieces behave in a real workplace. A bare description of a model earns little.
+Show how each component works, then show where it breaks down for an engineer
+under pressure. One short example is enough.
+
+
+
+For part (c), state your position in the first sentence,
+then defend it. Give the strongest reason for your view, answer the strongest
+objection against it, and finish with a conclusion that follows from what you
+wrote. Use a named case as evidence. A one-sided answer, however well written,
+will lose marks.
+
+
+
+The verb in the question tells you what to do. Differentiate
+and compare mean you set two things side by side and show where they differ.
+Deconstruct and analyze mean you break the idea into parts. Evaluate, assess,
+appraise and justify mean you reach a judgment and give reasons for it.
+
+
+Time plan
+
+
+
+You have about three minutes per mark. Give roughly 4
+minutes to each (a), 7 minutes to each (b) and 12 minutes to each (c). That
+puts Section A at about 70 minutes and leaves about 20 minutes for your Section
+B question, with a few minutes spare to read your answers. Do not overspend on
+part (a) of any question.
+
+
+Question 1 themes: normative ethics, moral agency and whistleblowing
+
+
+Part (a). Revise the difference between descriptive ethics,
+which reports what people actually believe and do, and normative ethics, which
+says what people ought to do. Be ready to explain why a professional code of
+conduct is normative: it prescribes duties and does not describe habits. Use
+one clause from an engineering code to make the point.
+
+
+
+Part (b). Learn James Rest's four components in order: moral
+sensitivity (noticing that an issue is ethical), moral judgment (deciding what
+is right), moral motivation (giving ethics priority over other goals) and moral
+character or implementation (having the courage and skill to act). The analysis
+question lives in the gap between the second and fourth components. An engineer
+can reason well and still stay silent because a manager has set a deadline, a
+promotion is at stake, or colleagues are all saying nothing. Practise
+explaining that gap in your own words.
+
+
+
+Part (c). Prepare both sides. Confidentiality matters
+because employers and clients trust engineers with sensitive information. The
+public interest comes first because the codes of most engineering bodies place
+safety, health and welfare of the public above loyalty to an employer. Then
+learn a standard set of conditions for justified whistleblowing, such as
+Richard De George's: the harm is serious, the engineer has reported it
+internally, internal channels have been exhausted, the evidence is documented
+and would convince a reasonable observer, and there is a reasonable chance that
+going public will prevent the harm. Be ready to say when the duty shifts from
+permitted to obligatory. Rana Plaza (2013) and the Challenger launch decision
+(1986) both work as cases, because engineers or inspectors raised warnings that
+were overridden.
+
+
+Question 2 themes: Mill, organizational failure and cost-benefit analysis
+
+
+
+Part (a). Know Mill's claim that pleasures differ in quality
+and not only in quantity, and the test he proposed: those who have experienced
+both kinds prefer the higher one. Link this to the familiar criticism that
+utilitarianism reduces life to a pleasure counter, and explain how the quality
+distinction answers that charge. The phrase about being a dissatisfied Socrates
+rather than a satisfied fool is worth knowing, but explain it in your own
+words.
+
+
+
+Part (b). Normalization of deviance is Diane Vaughan's term
+from her study of Challenger. A team accepts a small departure from a safety
+standard, nothing goes wrong, and the departure becomes the new normal.
+Diffusion of responsibility is the psychological tendency to feel less
+personally accountable when many people share a task. Your analysis should show
+how each one dulls moral sensitivity: people stop seeing a risk as a risk, or
+assume someone else will deal with it.
+
+
+
+Part (c). Learn why cost-benefit analysis is attractive: it
+is transparent, it allows comparison, and it forces decision makers to count
+consequences. Then learn its limits. Putting a price on a life is contested,
+the people who bear the risk are often not the people who gain the benefit, and
+averages can hide serious harm to a few. The Ford Pinto fuel tank case is the
+standard example. Your argument for non-consequentialist constraints should
+draw on rights, informed consent and respect for persons, and you should show
+how these could be written into a risk protocol as limits that no cost-benefit
+result can override.
+
+
+Question 3 themes: divine command, care ethics and Kant
+
+
+
+Part (a). Divine Command Theory holds that an act is right
+because God commands it. The Euthyphro Dilemma asks whether God commands an act
+because it is already right, which would mean rightness exists independently of
+God, or whether it is right only because God commands it, which would make
+morality arbitrary. State both horns clearly and say why each troubles the
+theory.
+
+
+
+Part (b). Kohlberg's model emphasizes justice, rights and
+impartial principles. Gilligan responded that many people reason from
+relationships, responsibility and care for particular others. Compare the two,
+then show what care ethics adds to engineering design: attention to vulnerable
+users, long-term consequences for communities, and the human side of a
+technical decision. Pick a design example, such as a building or a product used
+by children or elderly people, and use it.
+
+
+
+Part (c). Know the Formula of Humanity: treat humanity, in
+yourself and in others, always as an end and never merely as a means. Link it
+to engineering through safety standards, informed consent and privacy. An
+engineer who hides a known defect, or who collects user data without their
+knowledge, is using people as mere means. Evaluate honestly. Kant gives a
+strong basis for duties to users, but the formula can be hard to apply when
+duties conflict, and it says little about weighing risks across a whole population.
+A balanced answer notes this.
+
+
+Question 4 themes: value theory, stress and double effect
+
+
+
+Part (a). Intrinsic value is value as an end in itself;
+instrumental value is value as a means to something else. For the second half,
+think of design standards and codes: a standard for fire exits or load limits
+is not neutral, because it expresses a decision about how much risk society
+will accept and whose safety counts. Prepare one concrete example.
+
+
+
+Part (b). Cover how heavy workloads, long hours and tight
+deadlines wear down an engineer's attention and willingness to speak up, and
+how prolonged stress can lower commitment to the organization. Distinguish the
+effect on moral motivation from the effect on organizational commitment, and
+say which direction each moves. Keep the answer tied to engineering work and
+not to stress in general.
+
+
+
+Part (c). Learn the Doctrine of Double Effect and its four
+conditions: the act itself is good or at least neutral, the good effect is not
+produced by means of the bad effect, the agent intends only the good effect,
+and there is a proportionately serious reason for allowing the bad effect.
+Apply them to a design trade-off, such as a vehicle or bridge design that
+cannot remove every risk. Then evaluate: the doctrine gives a structure for
+thinking about unavoidable risk, but critics say intention is hard to verify
+and that the proportionality test needs the very cost-benefit judgments the
+doctrine was meant to limit.
+
+Choosing in Section B
+
+
+
+Question 3 leans on moral theory, so it suits you if you are
+comfortable with philosophical arguments. Question 4 leans on applied
+reasoning, so it suits you if you prefer working through a design scenario.
+Revise both, and decide in the exam room after reading each question once.
+
+
+Practice
+
+
+For each question, write one part (c) answer under timed
+conditions, about 12 minutes, and then check whether your first sentence states
+a position and whether you answered the best objection. Build a small bank of
+cases you can use in any answer: Challenger, Ford Pinto, Rana Plaza, and one
+more of your own choosing. For each, be able to say in two sentences what
+happened and which ethical idea it illustrates. Study with a partner and mark
+each other's answers using the verb in the question as the standard.
